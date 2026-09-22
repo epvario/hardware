@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,154.59,-126.26,180.0,bottom
+C2,2.2uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,154.59,-124.26,180.0,bottom
+C3,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,146.24,-126.25,0.0,bottom
+C4,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.27,-122.24,180.0,bottom
+C5,2.2uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,153.23,-120.22,180.0,bottom
+C6,2.2uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,146.24,-124.29,0.0,bottom
+DS1,~,2.9_breakout,150.53,-52.225,90.0,top
+DS2,~,HRS_FH34SRJ-24S-0.5SH_50_,150.5,-129.58,0.0,bottom
+H1,MountingHole,MountingHole_3.2mm_M3,166.47,-51.83,0.0,top
+H2,MountingHole,MountingHole_3.2mm_M3,134.57,-51.83,0.0,top
+H3,MountingHole,MountingHole_3.2mm_M3,134.57,-138.03,0.0,top
+H4,MountingHole,MountingHole_3.2mm_M3,166.47,-138.03,0.0,top

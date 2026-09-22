@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC,Quantity
+~,DS2,HRS_FH34SRJ-24S-0.5SH_50_,C324726,1
+~,DS1,2.9_breakout,,1
+2.2uF,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+2.2uF,C5,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+0.1uF,C1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+0.1uF,C4,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+0.1uF,C3,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+2.2uF,C6,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
