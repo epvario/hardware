@@ -21,7 +21,7 @@ Here is a sample of Product links:
 - Display connector
   - [aliexpress.com/item/1005004740833501.html](https://aliexpress.com/item/1005004740833501.html)
 - GPS, Caddx Walksnail WS-M181
-  - [aliexpress.com/item/1005012485670261.html](https://aliexpress.com/item/1005012485670261.html)
+  - i.e. [aliexpress.com/item/1005012485670261.html](https://aliexpress.com/item/1005012485670261.html)
   - or any other shop
 - Battery, EEMB 603449 1100mAh Lipo
   - [amazon.de/dp/B08VRYS8FT](www.amazon.de/dp/B08VRYS8FT)
@@ -33,3 +33,7 @@ Here is a sample of Product links:
   - [aliexpress.com/item/1005009297350467.html](https://aliexpress.com/item/1005009297350467.html)
 - FANET Antenna
   - to be defined
+- Screws, M2 16mm, 
+  - preferrable stainless steele, less magnetic
+  - i.e. [ebay.de/itm/401642079555](www.ebay.de/itm/401642079555)
+- Micro SD Card, max 32GB, preferrably SanDisk
